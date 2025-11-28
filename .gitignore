@@ -1,0 +1,10 @@
+data/prospects.csv
+data/cleaned_prospects.csv
+data/*.xlsx
+data/*.csv
+notebooks/*.xlsx
+notebooks/*.csv
+.env
+__pycache__/jnnk nj nj  j
+*.pyc
+.vscode/
