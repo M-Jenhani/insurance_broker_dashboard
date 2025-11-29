@@ -2,6 +2,8 @@
 
 🏥 **Modern Lead Management Dashboard with Advanced ML**
 
+> **Portfolio Project** - Inspired by real-world experience during an internship at an insurance brokerage. During development, I worked with actual client data to build and test features, but all sensitive prospect information has been excluded from this repository for privacy and GDPR compliance.
+
 Professional lead management and analysis system for health insurance brokers with:
 - **K-Means Clustering** (5 automatic segments)
 - **Isolation Forest** (anomaly detection)  
