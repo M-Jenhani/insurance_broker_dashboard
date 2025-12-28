@@ -1,0 +1,5 @@
+prospect_id,contact_date,contacted_by,contact_method,status,converted,contract_value,conversion_date,priority_score,adjusted_score,segment,notes
+14596,2025-11-29 07:13:03,Agent,Phone,Contacted,False,0,,21.0,4.2,2,
+6401,2025-11-29 07:13:20,Agent,Phone,Converted,True,500,2025-11-29 07:13:20,20.8,4.16,2,
+6401,2025-11-29 07:13:27,Agent,Phone,Converted,True,500,2025-11-29 07:13:27,20.8,4.16,2,
+7962,2025-11-29 07:13:50,Agent,Email,Converted,True,900,2025-11-29 07:13:50,19.5,3.9,2,

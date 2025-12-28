@@ -1,7 +1,3 @@
-data/prospects.csv
-data/cleaned_prospects.csv
-data/*.xlsx
-data/*.csv
 notebooks/*.xlsx
 notebooks/*.csv
 .env
