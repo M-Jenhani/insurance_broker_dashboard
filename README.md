@@ -15,13 +15,13 @@
 ![Dashboard Home](screenshots/dashboard.png)
 
 ### Lead Prioritization Page
-![Lead Prioritization](screenshots\priority_leads.png)
+![Lead Prioritization](screenshots/priority_leads.png)
 
 ### Geographical analysis
-![Geographical analysis](screenshots\analyse_geographique.png)
+![Geographical analysis](screenshots/analyse_geographique.png)
 
 ### Conversion Tracking
-![Conversion Tracking](screenshots\conversion.png)
+![Conversion Tracking](screenshots/conversion.png)
 
 # Insurance Broker Dashboard
 
