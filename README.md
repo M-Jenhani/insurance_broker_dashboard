@@ -1,4 +1,29 @@
 # Insurance Broker Dashboard
+### Demo with Synthetic Data (No Real Data Required)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://insurance-broker-dashboard.onrender.com)
+
+🌐 Live Demo : [https://insurance-broker-dashboard.onrender.com](https://insurance-broker-dashboard.onrender.com)  
+*Note: The dashboard is hosted on Render's free tier. If the site takes time to load, it may be waking up due to inactivity.*
+
+---
+## 📸 Example Screenshots
+
+*Below are a few example screenshots. The app contains additional pages and features not shown here.*
+
+### Dashboard Home
+![Dashboard Home](screenshots/dashboard.png)
+
+### Lead Prioritization Page
+![Lead Prioritization](screenshots/priotiy_leads.png)
+
+### Geographical analysis
+![Geographical analysis](screenshots/analyse_geographique.png)
+
+### Conversion Tracking
+![Conversion Tracking](images/conversion.png)
+
+# Insurance Broker Dashboard
 
 🏥 **Modern Lead Management Dashboard with Advanced ML**
 
