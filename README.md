@@ -30,25 +30,6 @@ streamlit run app.py
 
 The setup automatically generates realistic synthetic data matching the original schema, allowing you to explore all features without compromising real client privacy.
 
-## 🌐 Deploying on Render
-
-You can deploy this dashboard for free using [Render](https://render.com):
-
-1. **Push your code to GitHub** (public or private repo)
-2. **Create a new Web Service** on Render
-   - Environment: Python
-   - Build Command: `pip install -r Requirements.txt`
-   - Start Command: `streamlit run app.py --server.port $PORT --server.address 0.0.0.0`
-   - (Optional) Add `render.yaml` for auto-detection
-3. **Wait for build and deployment**
-4. Your app will be live at `https://<your-app-name>.onrender.com`
-
-**Files included for Render deployment:**
-- `render.yaml` (Render config)
-- `Procfile` (alternative for some platforms)
-- `start.sh` (optional, for custom start logic)
-
-**No changes needed to your code or Streamlit config!**
 
 ## 📁 Modular Structure
 

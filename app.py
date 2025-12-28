@@ -28,6 +28,9 @@ load_custom_css()
 
 # Header
 st.markdown('<h1 class="main-header">🏥 Insurance Broker Dashboard - Lead Management System</h1>', unsafe_allow_html=True)
+st.markdown('#### <span style="color: #f97316;">🔒 Démo avec données synthétiques uniquement</span>',unsafe_allow_html=True)
+st.warning("Cette démonstration repose **exclusivement sur des données synthétiques générées** pour l’occasion — **aucune donnée réelle**", icon="🔒")
+
 
 # Load data
 df = load_data()
@@ -49,7 +52,7 @@ df_filtered = create_sidebar_filters(df)
 st.session_state['df_filtered'] = df_filtered
 
 # Main page content
-st.success(f"✅ {len(df_filtered):,} prospects chargés ({len(df_filtered)/len(df)*100:.1f}% du total)")
+st.success(f"✅ {len(df_filtered):,} prospects **synthétiques** chargés ({len(df_filtered)/len(df)*100:.1f}% du total)")
 
 st.markdown("""
 ## 👋 Welcome to the Insurance Broker Dashboard
