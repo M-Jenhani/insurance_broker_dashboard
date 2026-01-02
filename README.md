@@ -1,9 +1,9 @@
 # Insurance Broker Dashboard
 ### Demo with Synthetic Data (No Real Data Required)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://insurance-broker-dashboard.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://leadsense-demo.onrender.com)
 
-🌐 Live Demo : [https://insurance-broker-dashboard.onrender.com](https://insurance-broker-dashboard.onrender.com)  
+🌐 Live Demo : [https://leadsense-demo.onrender.com](https://leadsense-demo.onrender.com)  
 *Note: The dashboard is hosted on Render's free tier. If the site takes time to load, it may be waking up due to inactivity.*
 
 ---
